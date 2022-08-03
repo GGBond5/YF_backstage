@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #27b5ff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="添加作业内容" class="cls-1" d="M29,114H24v5a1,1,0,0,1-2,0v-5H17a1,1,0,0,1,0-2h5v-5a1,1,0,0,1,2,0v5h5A1,1,0,1,1,29,114Z" transform="translate(-13 -103)"/>
+</svg>

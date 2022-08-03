@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #27b5ff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="入账付款编辑" class="cls-1" d="M163,191H152a2,2,0,0,1-2-2V178a2,2,0,0,1,2-2h7l-1.9,2H153a1,1,0,0,0-1,1v9a1,1,0,0,0,1,1h9a1,1,0,0,0,1-1v-4l2-2v7A2,2,0,0,1,163,191Zm-5.425-6.161a1.083,1.083,0,1,1-1.414-1.414l6.364-6.364a1.083,1.083,0,1,1,1.414,1.414Z" transform="translate(-147.5 -173.5)"/>
+</svg>

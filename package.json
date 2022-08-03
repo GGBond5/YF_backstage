@@ -1,0 +1,76 @@
+{
+  "name": "yf_zizhujianxiu_web",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "test:unit": "vue-cli-service test:unit",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "axios": "^0.26.1",
+    "core-js": "^3.6.5",
+    "echarts": "^5.3.1",
+    "element-ui": "^2.15.6",
+    "good-storage": "^1.1.1",
+    "js-file-download": "^0.4.12",
+    "jsencrypt": "^3.2.1",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1",
+    "vue": "^2.6.11",
+    "vue-router": "^3.2.0",
+    "vue-text-format": "^1.2.6",
+    "vuex": "^3.4.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.15",
+    "@vue/cli-plugin-eslint": "~4.5.15",
+    "@vue/cli-plugin-router": "~4.5.15",
+    "@vue/cli-plugin-unit-mocha": "~4.5.15",
+    "@vue/cli-plugin-vuex": "~4.5.15",
+    "@vue/cli-service": "~4.5.15",
+    "@vue/eslint-config-prettier": "^6.0.0",
+    "@vue/test-utils": "^1.0.3",
+    "babel-eslint": "^10.1.0",
+    "chai": "^4.1.2",
+    "eslint": "^6.7.2",
+    "eslint-plugin-prettier": "^3.3.1",
+    "eslint-plugin-vue": "^6.2.2",
+    "less": "^3.0.4",
+    "less-loader": "^5.0.0",
+    "prettier": "^2.2.1",
+    "sass-loader": "^8.0.2",
+    "vue-template-compiler": "^2.6.11"
+  },
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true
+    },
+    "extends": [
+      "plugin:vue/essential",
+      "eslint:recommended"
+    ],
+    "parserOptions": {
+      "parser": "babel-eslint"
+    },
+    "rules": {},
+    "overrides": [
+      {
+        "files": [
+          "**/__tests__/*.{j,t}s?(x)",
+          "**/tests/unit/**/*.spec.{j,t}s?(x)"
+        ],
+        "env": {
+          "mocha": true
+        }
+      }
+    ]
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}

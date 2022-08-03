@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #27b5ff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="复制" class="cls-1" d="M39,95H31a2,2,0,0,1-2-2V92H26a2,2,0,0,1-2-2V81a2,2,0,0,1,2-2h9a2,2,0,0,1,2,2v2h2a2,2,0,0,1,2,2v8A2,2,0,0,1,39,95ZM35,82a1,1,0,0,0-1-1H27a1,1,0,0,0-1,1v7a1,1,0,0,0,1,1h2V85a2,2,0,0,1,2-2h4V82Zm4,4a1,1,0,0,0-1-1H32a1,1,0,0,0-1,1v6a1,1,0,0,0,1,1h6a1,1,0,0,0,1-1V86Z" transform="translate(-22.5 -77)"/>
+</svg>

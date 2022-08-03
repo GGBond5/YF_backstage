@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #0c0;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="供应商评价" class="cls-1" d="M116,237H104a1,1,0,0,1-1-1V224a1,1,0,0,1,1-1h12a1,1,0,0,1,1,1v12A1,1,0,0,1,116,237Zm-10-8v4c0,0.552-.552,1,0,1h2v-6h-1A1,1,0,0,0,106,229Zm8-1h-2.345l0.461-.8a1,1,0,0,0-1.732-1l-1.039,1.8H109v6h4a1,1,0,0,0,1-1l1-4A1,1,0,0,0,114,228Z" transform="translate(-100 -220)"/>
+</svg>

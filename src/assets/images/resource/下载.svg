@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #27b5ff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="下载" class="cls-1" d="M257,95H243a1,1,0,0,1-1-1V90a1,1,0,1,1,2,0v3h12V90a1,1,0,1,1,2,0v4A1,1,0,0,1,257,95Zm-6.293-4.707a1,1,0,0,1-1.414,0l-2.829-2.828a1,1,0,1,1,1.415-1.414L249,87.172V80a1,1,0,0,1,2,0v7.171l1.121-1.121a1,1,0,0,1,1.414,1.414Z" transform="translate(-240 -77)"/>
+</svg>

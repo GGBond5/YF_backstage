@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #27b5ff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="下级目录" class="cls-1" d="M117,147H105a2,2,0,0,1-2-2V135a2,2,0,0,1,2-2h5v0.133a0.967,0.967,0,0,1,.464.246L113.086,136H118a1,1,0,0,1,1,1v8A2,2,0,0,1,117,147Zm0-9h-4a3.5,3.5,0,0,1-1.121-.379L109.257,135H106a1,1,0,0,0-1,1v8a1,1,0,0,0,1,1h10a1,1,0,0,0,1-1v-6Z" transform="translate(-101 -130)"/>
+</svg>

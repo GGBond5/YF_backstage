@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #27b5ff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="预算科目管理" class="cls-1" d="M264,198h-8l-4-7,4-7h8l4,7Zm-1-12h-6l-3,5,3,5h6l3-5Zm-3,7a2,2,0,1,1,2-2A2,2,0,0,1,260,193Z" transform="translate(-250 -181)"/>
+</svg>

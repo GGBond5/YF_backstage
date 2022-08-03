@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #0c0;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="完工总结" class="cls-1" d="M97,237H85a1,1,0,0,1-1-1V224a1,1,0,0,1,1-1H97a1,1,0,0,1,1,1v12A1,1,0,0,1,97,237Zm-9.707-5.586-0.375,2.453,2.5-.331L92.95,230l-2.121-2.121Zm6.364-6.364-1.414,1.414,2.121,2.122,1.414-1.414Z" transform="translate(-81 -220)"/>
+</svg>

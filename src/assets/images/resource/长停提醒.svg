@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #27b5ff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="长停提醒" class="cls-1" d="M184.8,214.007q-4.806-.025-9.613,0t-2.379-3.971q2.427-4,4.806-8.024t4.759,0q2.379,4.024,4.806,8.024T184.8,214.007ZM181,204a1,1,0,0,0-2,0v4a1,1,0,0,0,2,0v-4Zm0,6h-2v2h2v-2Z" transform="translate(-170 -197.016)"/>
+</svg>

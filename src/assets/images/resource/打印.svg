@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #27b5ff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="打印" class="cls-1" d="M95,144H94v2a2,2,0,0,1-2,2H82a2,2,0,0,1-2-2v-2H79a1,1,0,0,1-1-1v-5a1,1,0,0,1,1-1h1v-4a2,2,0,0,1,2-2h8l4,4h0v2h1a1,1,0,0,1,1,1v5A1,1,0,0,1,95,144Zm-13,1a1,1,0,0,0,1,1h8a1,1,0,0,0,1-1v-1H82v1Zm10-8h0v-1H90a1,1,0,0,1-1-1v-2H83a1,1,0,0,0-1,1v3h0v2H92v-2Z" transform="translate(-77 -129.5)"/>
+</svg>

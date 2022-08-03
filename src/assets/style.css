@@ -1,0 +1,112 @@
+*{ margin: 0; padding: 0; box-sizing: border-box; }
+html, body{width: 100%;height: 100%;-moz-user-select: none; /*firefox*/
+  -webkit-user-select: text; /*webkit浏览器*/
+  -ms-user-select: text; /*ie10+*/
+  -khtml-user-select :text; /*早期的浏览器*/
+  user-select: text; /*文字不能被选中*/}
+a{cursor: pointer;}
+em, i{font-style: normal;}
+ul {list-style: none;}
+@font-face{
+  font-family: 'pangmen'; 
+  src:url('font/pangmenzhengdao.ttf') format('truetype');
+}
+@font-face{
+  font-family: 'Alternate'; 
+  src:url('font/AlternateGothicNo.2BT.ttf') format('truetype');
+}
+
+@font-face{
+  font-family: 'roboto'; 
+  src:url('font/RobotoCondensed-Regular.ttf') format('truetype');
+}
+#app {
+  font-family: Avenir, Helvetica, Arial, sans-serif; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;
+  color: #333; width: 100%; height: 100%;font-size: 14px;
+}
+.flex-row{display:flex; flex-direction: row;}
+.flex-column{display:flex; flex-direction: column;}
+.flex-1{ flex:1; -webkit-flex:1; -ms-flex: 1;flex-shrink: 0;overflow: hidden;}
+.flex-2{ flex:2;-webkit-flex:2;-ms-flex: 2; flex-shrink: 0;overflow: hidden;}
+.flex-3{ flex:3;-webkit-flex:3;-ms-flex: 3; flex-shrink: 0;overflow: hidden;}
+.flex-4{ flex:4;-webkit-flex:4;-ms-flex: 4; flex-shrink: 0;overflow: hidden;}
+.flex-vCenter{display:flex;align-items:center;flex-wrap: wrap;}
+.flex-vCenter-noWrap{display:flex;align-items:center;flex-wrap: nowrap;}
+.flex-center{display:flex;align-content: center; align-items:center;justify-content: center;flex-wrap: wrap;}
+.flex-vMiddle{display:flex; flex-direction: column;align-items:center;}
+.flex-middle{display:flex; flex-direction: column;align-items:center;justify-content: center;}
+.flex-between{display: flex;justify-content: space-between;align-items:center;}
+.flex-overflow{ overflow: initial !important;}
+
+/* 设置滚动条的样式 */
+::-webkit-scrollbar {
+  width: 5px;
+  height: 8px;
+  background-color: transparent;
+}
+body::-webkit-scrollbar {
+  width: 0px;
+  height: 0px;
+  background-color: transparent;
+}
+::-webkit-scrollbar-button:vertical:start, ::-webkit-scrollbar-button:vertical:end, ::-webkit-scrollbar-button:horizontal:start, ::-webkit-scrollbar-button:horizontal:end {
+  width: 0;height: 0;
+}
+/* 滚动槽 */
+::-webkit-scrollbar-track {
+  border-radius: 0;
+}
+/* 滚动条滑块 */
+::-webkit-scrollbar-thumb {
+  border-radius: 5px;
+  background:transparent;
+}
+:hover::-webkit-scrollbar-thumb {
+  border-radius: 5px;
+  background:#ddd;
+}
+.matrixRight::-webkit-scrollbar{
+  width: 0;
+}
+
+
+/* menu */
+
+/* menu end */
+
+/* el-button */
+
+/* el-button end */
+
+/* el-table */
+/* .el-table {
+  overflow: auto;
+} */
+.el-table th{
+  text-align: center !important;
+  background-color: rgba(228, 228, 228, 0.5) !important;
+}
+.el-table .el-table__body-wrapper td{
+  text-align: center;
+}
+.el-table__footer-wrapper tbody td.el-table__cell { /* 表格底部统计 */
+  padding: 12px 0 !important;
+  text-align: center;
+}
+/* el-table end */
+
+/* el-form */
+
+/* el-form end */
+
+/* el-tree */
+
+/* el-tree end */
+
+/* dialog */
+.el-dialog__footer {
+  text-align: center;
+}
+/* dialog end */
+
+

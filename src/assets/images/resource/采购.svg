@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #39f;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="采购" class="cls-1" d="M97,191H85a1,1,0,0,1-1-1V178a1,1,0,0,1,1-1H97a1,1,0,0,1,1,1v12A1,1,0,0,1,97,191Zm-3-10a1,1,0,0,0-1-1H89a1,1,0,0,0-1,1v7l3.028-2L94,188v-7Z" transform="translate(-81 -174)"/>
+</svg>

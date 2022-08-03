@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #27b5ff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="联动处理督办单" class="cls-1" d="M197,85h-3a1,1,0,0,1-1-1V81h-5a1,1,0,0,0-1,1V92a1,1,0,0,0,1,1h4v2h-5a2,2,0,0,1-2-2V81a2,2,0,0,1,2-2h8l4,4v5h-2V85Zm-3,6h1V90a1,1,0,1,1,2,0v1h1a1,1,0,0,1,0,2h-1v1a1,1,0,0,1-2,0V93h-1A1,1,0,0,1,194,91Z" transform="translate(-182 -77)"/>
+</svg>

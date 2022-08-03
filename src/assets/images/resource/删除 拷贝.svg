@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #27b5ff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="删除_拷贝" data-name="删除 拷贝" class="cls-1" d="M31,172H30v10a2,2,0,0,1-2,2H18a2,2,0,0,1-2-2V172H15a1,1,0,0,1,0-2h3v-3a1,1,0,0,1,1-1h8a1,1,0,0,1,1,1v3h3A1,1,0,0,1,31,172Zm-13,1v8a1,1,0,0,0,1,1h8a1,1,0,0,0,1-1v-8a1,1,0,0,0-1-1H19A1,1,0,0,0,18,173Zm8-5H20v2h6v-2Zm-5,6a1,1,0,0,1,1,1v4a1,1,0,0,1-2,0v-4A1,1,0,0,1,21,174Zm4,0a1,1,0,0,1,1,1v4a1,1,0,0,1-2,0v-4A1,1,0,0,1,25,174Z" transform="translate(-13 -165)"/>
+</svg>

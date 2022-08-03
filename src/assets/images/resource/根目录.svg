@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #27b5ff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="根目录" class="cls-1" d="M138,147H126a2,2,0,0,1-2-2V135a2,2,0,0,1,2-2h5l2.515,3.143A0.969,0.969,0,0,1,134,136h5a1,1,0,0,1,1,1v8A2,2,0,0,1,138,147Z" transform="translate(-122 -130)"/>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #39f;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="合同" class="cls-1" d="M116,191H104a1,1,0,0,1-1-1V178a1,1,0,0,1,1-1h12a1,1,0,0,1,1,1v12A1,1,0,0,1,116,191Zm-4.352-8.857L110,179l-1.648,3.143L105,182.82l2.333,2.619L106.91,189l3.09-1.524L113.09,189l-0.424-3.561L115,182.82Z" transform="translate(-100 -174)"/>
+</svg>

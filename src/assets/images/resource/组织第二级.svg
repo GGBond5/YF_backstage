@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #27b5ff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="组织第二级" class="cls-1" d="M201,120h-5a1,1,0,0,1-1-1v-3a1,1,0,0,1,1-1h2v-2h-9v2h2a1,1,0,0,1,1,1v3a1,1,0,0,1-1,1h-5a1,1,0,0,1-1-1v-3a1,1,0,0,1,1-1h2v-3h5v-2h-3a1,1,0,0,1-1-1v-3a1,1,0,0,1,1-1h7a1,1,0,0,1,1,1v3a1,1,0,0,1-1,1h-3v2h5v3h2a1,1,0,0,1,1,1v3A1,1,0,0,1,201,120Zm-1-3h-3v1h3v-1Z" transform="translate(-183.5 -102.5)"/>
+</svg>

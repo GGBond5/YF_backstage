@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #27b5ff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="密码" class="cls-1" d="M168,95H158a1,1,0,0,1-1-1V87a1,1,0,0,1,1-1V81a2,2,0,0,1,2-2h6a2,2,0,0,1,2,2v3h-2V82a1,1,0,0,0-1-1h-4a1,1,0,0,0-1,1v4h8a1,1,0,0,1,1,1v7A1,1,0,0,1,168,95Z" transform="translate(-153 -77)"/>
+</svg>
